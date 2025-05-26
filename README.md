@@ -53,7 +53,7 @@ Design a full 2-month Data Science bootcamp, with portfolio projects and deep le
 ## 🚀 How to Use
 
 1. Go to [ChatGPT](https://chat.openai.com)
-2. Open either `course_generator.txt` or `curriculum_generator.txt`
+2. Open either `Course Generator` or `Curriculum Generator`
 3. Paste the prompt into ChatGPT
 4. Answer the setup questions (topic, goal, time, etc.)
 5. Start learning—day by day, at your pace
