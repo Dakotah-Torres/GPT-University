@@ -58,6 +58,16 @@ Design a full 2-month Data Science bootcamp, with portfolio projects and deep le
 4. Answer the setup questions (topic, goal, time, etc.)
 5. Start learning—day by day, at your pace
 
+### 📘 Customize with External Resources
+
+- **Have a textbook or e-book you want to learn from?**  
+  You can upload or link it in ChatGPT and the Course Generator will build lessons around it.
+
+- **Have a syllabus from a bootcamp or college course?**  
+  Upload that as well! The Curriculum Generator can use it as a reference to guide your roadmap.
+
+This gives you the flexibility to structure learning around *exactly* what you want—whether it's a specific course, certification, or subject.
+
 That’s it. No fees, no deadlines, no pressure.
 
 ---
